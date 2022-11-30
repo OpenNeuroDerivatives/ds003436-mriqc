@@ -12,3 +12,8 @@
 	url = https://github.com/OpenNeuroDatasets/ds003436.git
 	datalad-id = 8cba44cc-742b-41ac-90f1-a9b0220a0fef
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003436.git
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	url = https://github.com/templateflow/templateflow.git
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+	datalad-url = https://github.com/templateflow/templateflow.git
